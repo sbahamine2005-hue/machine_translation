@@ -328,5 +328,5 @@ Then open `http://localhost:8000` in your browser.
 | Uvicorn | ASGI server for running the FastAPI app |
 
 
-
-<video src="https://github.com/sbahamine2005-hue/machine_translation/blob/main/demo.mp4?raw=true" controls="controls" style="max-width: 730px;"></video>
+##Demo
+<video src="https://raw.githubusercontent.com/sbahamine2005-hue/machine_translation/main/demo.mp4" controls="controls" style="max-width: 100%; height: auto;"></video>

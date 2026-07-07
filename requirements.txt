@@ -1,0 +1,13 @@
+# Web Framework & API
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+jinja2>=3.1.0
+pydantic>=2.0.0
+
+# NLP & Machine Learning
+transformers>=4.30.0
+torch>=2.0.0
+nltk>=3.8.0
+
+# SentencePiece by MarianMT tokenizer under the hood
+sentencepiece>=0.1.99

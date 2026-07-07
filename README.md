@@ -329,4 +329,8 @@ Then open `http://localhost:8000` in your browser.
 
 
 ## Demo
-<video src="https://raw.githubusercontent.com/sbahamine2005-hue/machine_translation/main/demo.mp4" controls="controls" style="max-width: 100%; height: auto;"></video>
+
+
+https://github.com/user-attachments/assets/664f49af-cf28-45b2-93e9-211911097ca8
+
+

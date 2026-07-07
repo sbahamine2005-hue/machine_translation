@@ -321,10 +321,12 @@ Then open `http://localhost:8000` in your browser.
 | PyTorch | Model, training loop, mixed precision, gradient accumulation |
 | `datasets` (HuggingFace) | OPUS-100 loading and batch mapping |
 | `transformers` | GPT-2 tokenizer, MarianMT pretrained baseline |
-
-<video src="https://github.com/sbahamine2005-hue/machine_translation/blob/main/demo.mp4?raw=true" controls="controls" style="max-width: 730px;"></video>
 | NLTK `sent_tokenize` | Sentence splitting for long-text MarianMT inference |
 | Matplotlib | Training/test loss visualisation (3-panel chart) |
 | FastAPI | REST API and browser UI serving |
 | Jinja2 | HTML templating for the frontend |
 | Uvicorn | ASGI server for running the FastAPI app |
+
+
+
+<video src="https://github.com/sbahamine2005-hue/machine_translation/blob/main/demo.mp4?raw=true" controls="controls" style="max-width: 730px;"></video>
